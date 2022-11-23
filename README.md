@@ -1,4 +1,4 @@
-# Vim movement tips
+# Vim tips
 
 ## Fast horizontal movement
 - jump to distinct character with **f**
@@ -21,5 +21,11 @@
 ## Fast indenting
 - auto-indent line **==**
 - auto-indent paragraph **=ap**
+
+## Number incrementing/decrementing
+- Increment number with **ctrl + a**
+- Decrement number with **ctrl + x**
+- Select index block with **ctrl + v** and make indeces gradually increasing with **g + ctrl + a**
+
 
 ---
